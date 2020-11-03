@@ -1,0 +1,21 @@
+
+body{
+	font-family: 'Arial';
+	display: flex;
+	justify-content: space-between;
+}
+
+#card{
+	width: 575px;
+	height: 412px;
+    margin: 2vw 20vw 0;
+    margin: 2vw 20vw 0;
+    border-radius: 25px;
+    text-align: center;
+   
+}
+
+#creator{
+	width: 30vw;
+	margin: 0 0 0 5vw;
+}
