@@ -1,8 +1,8 @@
-let message;
-let fontColor;
-let font;
-let fontsize;
-let bgColor;
+const message;
+const fontColor;
+const font;
+const fontsize;
+const bgColor;
 
 function getDetails() {
     message = document.getElementById("messageTxt").value;
